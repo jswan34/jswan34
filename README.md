@@ -23,8 +23,10 @@ Former Restauranteur turned IT Support and Cybersecurity student.
 ---
 
 ### 🏆 Certifications & Training
-* **Certifications:** [CompTIA Security+ (SY0-701)](images/CompTIA Security+ ce certificate.pdf)
+* **Certifications:**
 
-[Google Cybersecurity Certificate](images/Google.CyberSec.Cert.pdf)
+[CompTIA Security+ (SY0-701)](images/CompTIA_Security+_certificate.pdf)
+
+[Google Cybersecurity Certificate](images/Google_Cybersec_Cert.pdf)
 
 * **Continuous Learning:** [TryHackMe Profile](https://tryhackme.com/p/Rathphd)
