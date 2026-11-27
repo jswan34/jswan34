@@ -1,5 +1,5 @@
 # Hi, I'm Justin 👋
-**Aspiring SOC Analyst and Cloud Security Engineer** focused on threat detection, incident response, and cloud security.
+Former Restauranteur turned IT Support and Cybersecurity student. 
 
 📫 **Connect with me:** [Email](mailto:j.swanson34@pm.me) | [LinkedIn](https://www.linkedin.com/in/justin-swanson-079319424/)
 
@@ -23,5 +23,6 @@
 ---
 
 ### 🏆 Certifications & Training
-* **Certifications:** CompTIA Security+ (SY0-701) | Google Cybersecurity Certificate
+* **Certifications:** CompTIA Security+ (SY0-701)(https://www.dropbox.com/scl/fi/7tm8yq479nl8is2xsoj5o/CompTIA-Security-ce-certificate.pdf?rlkey=9aac8m7k6l14wrtrou17bgv7y&st=678e2at7&dl=0)
+Google Cybersecurity Certificate (https://www.dropbox.com/scl/fi/7e7e3lpdavt5fo06p3kd8/Google-CyberSec-Cert.pdf?rlkey=hwjuu81q3vwpit5iafxlzuph8&st=oh1w8pw7&dl=0)
 * **Continuous Learning:** [TryHackMe Profile](https://tryhackme.com/p/Rathphd)
