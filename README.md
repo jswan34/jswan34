@@ -7,6 +7,7 @@
 
 ### 🛡️ Security Projects
 * **[TryHackMe Rooms](https://github.com/jswan34/THM_Rooms)** – A variety of CTFs, investigations, and other writeups on rooms I've completed with PDF (for easy reading and pictures) and code based uploads.
+* **[Other Projects](https://github.com/jswan34/Other_Projects)** - Other projects I've been working on, such as with Entra ID and a Cyber Threat Intel Writeup on LAPSUS$
 
 ---
 
