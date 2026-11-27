@@ -6,7 +6,7 @@
 ---
 
 ### 🛡️ Security Projects
-* **[TryHackMe Rooms](https://github.com/jswan34/THM-Rooms)** – A variety of CTFs, investigations, and other writeups on rooms I've completed with PDF (for easy reading and pictures) and code based uploads.
+* **[TryHackMe Rooms](https://github.com/jswan34/THM_Rooms)** – A variety of CTFs, investigations, and other writeups on rooms I've completed with PDF (for easy reading and pictures) and code based uploads.
 
 ---
 
