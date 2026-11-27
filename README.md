@@ -1,7 +1,7 @@
 # Hi, I'm Justin 👋
 **Aspiring SOC Analyst and Cloud Security Engineer** focused on threat detection, incident response, and cloud security.
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/justin-swanson-079319424/) | [Email](mailto:j.swanson34@pm.me)
+📫 **Connect with me:** [Email](mailto:j.swanson34@pm.me) | [LinkedIn](https://www.linkedin.com/in/justin-swanson-079319424/)
 
 ---
 
