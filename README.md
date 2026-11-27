@@ -16,7 +16,7 @@ Former Restauranteur turned IT Support and Cybersecurity student.
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **SIEM & EDR** | Splunk, Microsoft Sentinel |
-| **Network Security** | Wireshark, Nmap,  |
+| **Network Security** | Wireshark, Nmap |
 | **AppSec & Offensive** | Burp Suite, Hydra, Metasploit, SQLmap |
 | **Scripting & OS** | Python, PowerShell, Bash, Linux (Kali/Ubuntu), Windows Server |
 
